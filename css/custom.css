@@ -1,0 +1,21 @@
+.profile-link { font-size: 3em; margin: 5px; color: navy; }
+
+#projects { list-style: none; }
+
+.project-item { 
+    border: 1px solid lightgrey; 
+    padding: 10px; height: 100px;
+    border-radius: 5px;
+}
+
+.project-item .description {
+    font-size: 0.8em;
+    color: darkgrey;
+}
+
+.project-item .icon { font-size: 1.7em; }
+
+.teaching-activity .dates {
+    color: darkgray;
+    font-style: italic;
+}
